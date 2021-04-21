@@ -11,6 +11,7 @@ Plug 'co1ncidence/mountaineer.vim'
 Plug 'cespare/vim-toml'
 Plug 'stephpy/vim-yaml'
 Plug 'rust-lang/rust.vim'
+Plug 'mechatroner/rainbow_csv'
 
 " GUI
 Plug 'machakann/vim-highlightedyank'
